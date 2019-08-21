@@ -1,3 +1,3 @@
 <?php
 
-echo 'OK';
+echo file_get_contents('https://kathmandujobs.com');
